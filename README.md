@@ -47,3 +47,10 @@ Workflow:
 ![image](https://user-images.githubusercontent.com/61981756/199007840-30f912eb-d72b-4917-bd03-b41fd6685468.png)
 
  
+Reference: 
+
+Patrick, M.K., Adekoya, A.F., Mighty, A.A. and Edward, B.Y., 2022. Capsule networks–a survey. Journal of King Saud University-computer and information sciences, 34(1), pp.1295-1310.
+
+Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I. and Salakhutdinov, R., 2014. Dropout: a simple way to prevent neural networks from overfitting. The journal of machine learning research, 15(1), pp.1929-1958.
+
+Sabour, S., Frosst, N. and Hinton, G.E., 2017. Dynamic routing between capsules. Advances in neural information processing systems, 30.
